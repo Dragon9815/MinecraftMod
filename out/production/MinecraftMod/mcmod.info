@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "testmod",
+    "name": "TestMod",
+    "description": "",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "stegr"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+  }
+]
